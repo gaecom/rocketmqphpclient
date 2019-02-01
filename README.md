@@ -27,3 +27,4 @@ rocketMQ的php客户端
 	`extension=rocketmqclient.so`  
 8.	在example/目录下，修改相应mq servername 配置，topic相应配置，进行测试.
 
+[NEW VERSION TO SEE](https://github.com/lpflpf/rocketmq-client-php)
